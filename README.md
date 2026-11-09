@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:1f6feb&height=200&section=header&text=Gaia%20Calamari&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20Analyst&descSize=18&descAlignY=68" alt="Gaia Calamari banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:1f6feb&height=200&section=header&text=Gaia%20Calamari&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20Analyst&descSize=18&descAlignY=68" alt="forensicgaia banner" width="100%">
 </p>
 
 <!-- Testo animato -->
