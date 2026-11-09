@@ -22,7 +22,7 @@
 ```yaml
 name:       Gaia Calamari
 role:       Digital Forensics Analyst
-interests:  [digital forensics, automation, smarter workflows]
+interests:  [digital forensics, smarter workflows]
 hobby:      Digital Forensics CTFs
 writing:    Stranger Forensics
 status:     always learning & improving
