@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:1f6feb&height=200&section=header&text=Gaia%20Calamari&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20Analyst&descSize=18&descAlignY=68" alt="forensicgaia banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3a5f,100:1f6feb&height=200&section=header&text=forensicgaia&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Digital%20Forensics%20Analyst&descSize=18&descAlignY=68" alt="forensicgaia banner" width="100%">
 </p>
 
 <!-- Testo animato -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Acquire.+Preserve.+Analyze.;DFIR+CTF+player+%F0%9F%A7%A9;Author+of+Stranger+Forensics+%E2%9C%8D%EF%B8%8F;Simplifying+(and+automating)+everything" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Acquire.+Preserve.+Analyze.;DFIR+CTF+player+%F0%9F%A7%A9;Author+of+Stranger+Forensics+%E2%9C%8D%EF%B8%8F;Simplifying+everything" alt="Typing SVG">
 </p>
 
 <p align="center">
