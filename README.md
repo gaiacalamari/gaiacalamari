@@ -26,7 +26,7 @@
 [Magnet](https://www.magnetforensics.com/)
 [LEAPP](https://leapps.org/)
 [Intella](https://www.vound-software.com/)
-...
+& more
 
 ### 📫 How to reach me
 
