@@ -19,13 +19,13 @@
 
 ### 🛠️ Tools I work with
 
-![Autopsy](https://img.shields.io/badge/Autopsy-2B2B2B?style=flat)
-![XWays Forensics](https://www.x-ways.net/)
-![FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
-![Cellebrite](https://cellebrite.com/en/home/)
-![Magnet](https://www.magnetforensics.com/)
-![LEAPP](https://leapps.org/)
-![Intella](https://www.vound-software.com/)
+[Autopsy](https://img.shields.io/badge/Autopsy-2B2B2B?style=flat)
+[XWays Forensics](https://www.x-ways.net/)
+[FTK Imager](https://img.shields.io/badge/FTK%20Imager-2B2B2B?style=flat)
+[Cellebrite](https://cellebrite.com/en/home/)
+[Magnet](https://www.magnetforensics.com/)
+[LEAPP](https://leapps.org/)
+[Intella](https://www.vound-software.com/)
 ...
 
 ### 📫 How to reach me
