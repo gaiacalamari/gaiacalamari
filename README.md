@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://gaiacalamari.github.io"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="https://it.linkedin.com/in/gaia-calamari-0a80a7238"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://LINK-A-STRANGER-FORENSICS"><img src="https://img.shields.io/badge/Stranger%20Forensics-8B0000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Stranger Forensics"></a>
+  <a href="https://strangerforensics.wordpress.com"><img src="https://img.shields.io/badge/Stranger%20Forensics-8B0000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Stranger Forensics"></a>
   <a href="mailto:forensicgaia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
